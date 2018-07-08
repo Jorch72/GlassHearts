@@ -3,7 +3,7 @@
 # Glass Hearts
 [>> Downloads <<](https://github.com/elytra/GlassHearts/releases)
 
-## Notice: Glass Hearts is currently unmaintained.
+## Notice: Glass Hearts is currently unmaintained. PRs welcome.
 
 *A novel and balanced way to increase your health.*
 
